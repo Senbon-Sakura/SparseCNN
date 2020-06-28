@@ -1,0 +1,13 @@
+// include dir
+// ---------------- verification environment ----------------------
+#incdir+../testbench
+// ----------------            code          ----------------------
++incdir+../rtl
+
+
+// code file 
+../rtl/Dec7_128.v
+
+// testbench
+../testbench/top_Dec7_128.v
+
